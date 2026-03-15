@@ -1,0 +1,13 @@
+{
+  "universidade": {
+    "nome": "Centro Universitário UNA",
+    "cidade": "Belo Horizonte",
+    "estado": "Minas Gerais",
+    "numeroAlunos": 20000,
+    "cursos": [
+      "Sistemas de Informação",
+      "Engenharia de Software",
+      "Administração"
+    ]
+  }
+}

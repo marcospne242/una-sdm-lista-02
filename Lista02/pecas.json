@@ -1,0 +1,18 @@
+{
+  "pecas": [
+    {
+      "id": 1,
+      "nome": "Martelo",
+      "tipo": "Ferramenta manual",
+      "quantidade": 10,
+      "preco": 29.90
+    },
+    {
+      "id": 2,
+      "nome": "Chave de Fenda",
+      "tipo": "Ferramenta manual",
+      "quantidade": 20,
+      "preco": 12.50
+    }
+  ]
+}

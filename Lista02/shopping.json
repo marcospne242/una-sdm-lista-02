@@ -1,0 +1,9 @@
+{
+  "shopping": {
+    "nome": "Shopping Central",
+    "cidade": "Belo Horizonte",
+    "numeroLojas": 150,
+    "numeroRestaurantes": 25,
+    "possuiCinema": true
+  }
+}
